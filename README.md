@@ -1,5 +1,8 @@
 # Cycling-IMU-Data
-IMU data with classifiers for cycling
+IMU data with classifiers for cycling.
+
+Collected for a LSM6DSV16X IMU's MLC classifier, but should be usable in other IMU environments as well.
+
 Read more about this data here: [https://syllepsis.live/2026/05/10/cycling-imu-data/](https://syllepsis.live/2026/05/10/cycling-imu-data/)
 
 Labels:
