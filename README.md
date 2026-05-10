@@ -3,6 +3,7 @@ IMU data with classifiers for cycling
 Read more about this data here: [https://syllepsis.live/2026/05/10/cycling-imu-data/](https://syllepsis.live/2026/05/10/cycling-imu-data/)
 
 Labels:
+```
 0 = smooth
 1 = rough
 2 = gravel
@@ -17,3 +18,4 @@ Labels:
 ------
 10 = straight (not entirely sure on this one, lost the label)
 11 = cornering (again, this and 10 might be swapped around, can't remember for sure)
+```
