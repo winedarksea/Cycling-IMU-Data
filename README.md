@@ -22,3 +22,9 @@ Labels:
 10 = straight (not entirely sure on this one, lost the label)
 11 = cornering (again, this and 10 might be swapped around, can't remember for sure)
 ```
+
++X = left
+
++Y = forward
+
++Z = down
